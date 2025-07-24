@@ -33,7 +33,7 @@
   <a href="https://www.upwork.com/freelancers/~01b8e084dccf3bf0c4?mp_source=share" target="blank">
     <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
-  <a href="https://www.fiverr.com/s/o8qz3pb" target="blank">
+  <a href="https://www.fiverr.com/s/qDrlA3V" target="blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
 </p>
